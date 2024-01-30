@@ -1,0 +1,40 @@
+*{
+    font-family:sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 40px auto 10px;
+}
+table th {
+    text-align: left;
+    padding:5px;
+}
+
+.bedrag {
+    text-align: right;
+}
+.getal {
+    text-align: center;
+}
+.name {
+    text-align: left;
+}
+td {
+    border:  1px solid #888; 
+    padding: 10px;
+}
+body {
+    background-color: #ccc;
+    align-items: center;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+#submit {
+    padding: 10px 20px;
+}
+nav {
+    margin-top: 30px;
+}
